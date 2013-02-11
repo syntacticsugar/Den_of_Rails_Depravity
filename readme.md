@@ -1,0 +1,1 @@
+# Hacker School Rails folder
